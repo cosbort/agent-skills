@@ -58,7 +58,7 @@ Contributions are welcome! If you want to improve an existing skill or add a new
 
 ## Author
 
-**Cosimo Bortone** — Software Development Specialist at Engineering Ingegneria Informatica S.p.A.
+**Cosimo Eugenio Bortone** — Software Development Specialist at Engineering Ingegneria Informatica S.p.A.
 
 - GitHub: [@cosbort](https://github.com/cosbort)
 
