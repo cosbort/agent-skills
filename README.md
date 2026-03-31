@@ -1,4 +1,4 @@
-# Agent Skills by Cosimo Bortone
+# Agent Skills by Cosimo Eugenio Bortone
 
 A collection of reusable [Agent Skills](https://agentskills.io/) for AI coding agents.
 
